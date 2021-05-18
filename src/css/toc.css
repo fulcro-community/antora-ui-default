@@ -94,3 +94,9 @@
 .toc .toc-menu .is-hidden-toc {
   display: none !important;
 }
+
+/* Our modifications for the generated `toc::[]` which has no .toc-menu */
+.toc .title {
+  font-weight: bold;
+  margin-top: 1em;
+}
