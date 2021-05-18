@@ -6,6 +6,17 @@ Author Name
 :!table-caption:
 :page-pagination:
 
+First line...
+
+++++
+<div id="toc" class="toc">
+<div id="toctitle" class="title">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_your_learning_journey">Your learning journey</a></li>
+</ul>
+</div>
+++++
+
 image:multirepo-ssg.svg[Multirepo SSG,200,float=right]
 Platonem complectitur mediocritatem ea eos.
 Ei nonumy deseruisse ius.

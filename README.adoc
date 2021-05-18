@@ -7,7 +7,7 @@ modified for the needs of https://fulcro-community.github.io/
 
 1. Change the code, tag it (`git tag v123`), push (`git push; git push --tags`)
 2. https://github.com/fulcro-community/antora-ui-default/releases[Create a release] manually from the pushed tag (even though GH will create a release automatically from the tag, you need to also create it manually so that our workflow kicks in)
-3. A GH action kicks it that builds the ui bundle and attaches it to the release
+3. A GH action kicks in that builds the ui bundle and attaches it to the release
 4. Update the url to it in https://github.com/fulcro-community/fulcro-community.github.io/antora-pipeline.yml
 
 The original readme follows below.
